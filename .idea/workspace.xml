@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="981846c4-d215-430c-9c1c-c119c9a880f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Data_Analysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cleaning_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_sets/Global YouTube Statistics.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_sets/cleaned_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loading_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/Figures/Figure_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/Figures/Figure_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/Figures/Figure_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/Figures/Figure_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/Figures/figure_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/Report_Summary.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Visuals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="981846c4-d215-430c-9c1c-c119c9a880f3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "asghar-rizvi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/asghar-rizvi/YouTube-Statistics-Project",
+    "accountId": "42781b93-b449-4c26-b67d-aa0ca806e18e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
